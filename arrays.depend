@@ -1,0 +1,10 @@
+# depslib dependency file v1.0
+1569578889 source:d:\emilia\arrays\main.cpp
+	<iostream>
+	<conio.h>
+	<stdio.h>
+	<string.h>
+
+1569594466 source:d:\arrays\main.cpp
+	<iostream>
+
